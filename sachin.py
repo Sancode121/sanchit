@@ -1,0 +1,3 @@
+a = "sachin"
+
+print (a);
